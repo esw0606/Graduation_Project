@@ -28,3 +28,4 @@
   4. 히스토그램 처리 : 히스토그램, 스트래칭 처리 등
 
 ## 구현 결과
+![Animation](https://github.com/esw0606/Graduation_Project/assets/73806829/aab87796-318d-4630-8fbc-12b92132a2de)
