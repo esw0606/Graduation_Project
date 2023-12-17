@@ -1,0 +1,31 @@
+﻿  pch.cpp
+  ChildFrm.cpp
+  CInputDlg.cpp
+  CModelessDlg.cpp
+D:\승우\대학교\졸업 프로젝트\업로드 파일\ImageProcessing\ImageProcessing\ImageProcessing\CModelessDlg.h(6,20): warning C4091: '': 변수를 선언하지 않으면 'CImageProcessingDoc' 왼쪽은 무시됩니다.
+D:\승우\대학교\졸업 프로젝트\업로드 파일\ImageProcessing\ImageProcessing\ImageProcessing\CModelessDlg.cpp(52,47): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\승우\대학교\졸업 프로젝트\업로드 파일\ImageProcessing\ImageProcessing\ImageProcessing\CModelessDlg.cpp(53,47): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ImageProcessing.cpp
+  ImageProcessingDoc.cpp
+D:\승우\대학교\졸업 프로젝트\업로드 파일\ImageProcessing\ImageProcessing\ImageProcessing\CModelessDlg.h(6,20): warning C4091: '': 변수를 선언하지 않으면 'CImageProcessingDoc' 왼쪽은 무시됩니다.
+D:\승우\대학교\졸업 프로젝트\업로드 파일\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessingDoc.cpp(607,47): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\승우\대학교\졸업 프로젝트\업로드 파일\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessingDoc.cpp(608,47): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\승우\대학교\졸업 프로젝트\업로드 파일\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessingDoc.cpp(609,47): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\승우\대학교\졸업 프로젝트\업로드 파일\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessingDoc.cpp(967,13): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\승우\대학교\졸업 프로젝트\업로드 파일\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessingDoc.cpp(968,13): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\승우\대학교\졸업 프로젝트\업로드 파일\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessingDoc.cpp(2545,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+D:\승우\대학교\졸업 프로젝트\업로드 파일\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessingDoc.cpp(2545,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+D:\승우\대학교\졸업 프로젝트\업로드 파일\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessingDoc.cpp(2545,12): warning C4101: 'vmax' :참조되지 않은 지역 변수입니다.
+D:\승우\대학교\졸업 프로젝트\업로드 파일\ImageProcessing\ImageProcessing\ImageProcessing\ImageProcessingDoc.cpp(2545,18): warning C4101: 'vmin' :참조되지 않은 지역 변수입니다.
+  ImageProcessingView.cpp
+  MainFrm.cpp
+  코드를 생성하고 있습니다...
+ChildFrm.obj : warning LNK4258: '/entry:WinMainCRTStartup' 지시문은 '/ENTRY:wWinMainCRTStartup' 스위치와 호환되지 않습니다. 무시됩니다.
+CInputDlg.obj : warning LNK4258: '/entry:WinMainCRTStartup' 지시문은 '/ENTRY:wWinMainCRTStartup' 스위치와 호환되지 않습니다. 무시됩니다.
+CModelessDlg.obj : warning LNK4258: '/entry:WinMainCRTStartup' 지시문은 '/ENTRY:wWinMainCRTStartup' 스위치와 호환되지 않습니다. 무시됩니다.
+ImageProcessing.obj : warning LNK4258: '/entry:WinMainCRTStartup' 지시문은 '/ENTRY:wWinMainCRTStartup' 스위치와 호환되지 않습니다. 무시됩니다.
+ImageProcessingDoc.obj : warning LNK4258: '/entry:WinMainCRTStartup' 지시문은 '/ENTRY:wWinMainCRTStartup' 스위치와 호환되지 않습니다. 무시됩니다.
+ImageProcessingView.obj : warning LNK4258: '/entry:WinMainCRTStartup' 지시문은 '/ENTRY:wWinMainCRTStartup' 스위치와 호환되지 않습니다. 무시됩니다.
+MainFrm.obj : warning LNK4258: '/entry:WinMainCRTStartup' 지시문은 '/ENTRY:wWinMainCRTStartup' 스위치와 호환되지 않습니다. 무시됩니다.
+pch.obj : warning LNK4258: '/entry:WinMainCRTStartup' 지시문은 '/ENTRY:wWinMainCRTStartup' 스위치와 호환되지 않습니다. 무시됩니다.
+  ImageProcessing.vcxproj -> D:\승우\대학교\졸업 프로젝트\업로드 파일\ImageProcessing\ImageProcessing\ImageProcessing\Debug\ImageProcessing.exe
